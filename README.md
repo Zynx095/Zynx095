@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0f14,50:0d1f2d,100:00d4ff&height=200&section=header&text=YUKITH%20M%20JOSEPH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Systems%20Engineer%20%E2%80%94%20AI%20%7C%20Cybersecurity%20%7C%20Embedded&descSize=16&descAlignY=60&descColor=6b7a96"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=AETHER+OS+%2F%2F+BOOT+SEQUENCE+COMPLETE;AI+Orchestration+%26+Local+Inference+Systems;Cybersecurity+%26+Intrusion+Detection+Architectures;Autonomous+Robotics+%26+Embedded+Engineering;Full-Stack+%2B+Immersive+Interface+Design" />
-
 </div>
 
 <br/>
