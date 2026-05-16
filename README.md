@@ -112,10 +112,6 @@ Sensor fusion arrays, IoT telemetry pipelines, and edge-AI inference on microcon
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Zynx095&show_icons=true&theme=transparent&hide_border=true&title_color=4A9EFF&text_color=8b9ab5&icon_color=4A9EFF&hide_title=true&count_private=true" />
-&nbsp;&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zynx095&layout=compact&theme=transparent&hide_border=true&title_color=4A9EFF&text_color=8b9ab5&hide_title=true" />
-
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zynx095&bg_color=transparent&color=4A9EFF&line=1d3a5c&point=4A9EFF&area=true&area_color=0d1f2d&hide_border=true&custom_title=" height="180"/>
