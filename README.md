@@ -1,131 +1,304 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=zynx095&theme=github-dark&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=zynx095&theme=github-dark" alt="Yukith Joseph profile hero" />
-</picture>
+# YUKITH JOSEPH
 
-<br/>
+### AI Systems · Cybersecurity · Networks · Embedded Engineering
 
-<!-- Dynamic typing sub-header for that cinematic, terminal feel -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3000&pause=1200&color=4A9EFF&center=true&vCenter=true&width=480&lines=Engineering+at+Presidency+University;AI+%C2%B7+Network+Security+%C2%B7+Embedded;Building+systems+that+think.">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3000&pause=1200&color=1a5ca8&center=true&vCenter=true&width=480&lines=Engineering+at+Presidency+University;AI+%C2%B7+Network+Security+%C2%B7+Embedded;Building+systems+that+think.">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3000&pause=1200&color=4A9EFF&center=true&vCenter=true&width=480&lines=Engineering+at+Presidency+University;AI+%C2%B7+Network+Security+%C2%B7+Embedded;Building+systems+that+think." alt="Sub-header" />
-</picture>
+Building intelligent systems across **AI inference, network security, computer vision, automation, and edge hardware.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-yukithjoseph.me-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://yukithjoseph.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yukith%20Joseph-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yukith-joseph)
+[![GitHub](https://img.shields.io/badge/GitHub-Zynx095-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/zynx095)
 
 </div>
 
 ---
 
-<br/>
+## About
 
-I build systems at the intersection of **AI inference**, **network security**, and **embedded intelligence**. My focus lies in engineering robust architectures—from multi-class anomaly classification in production networks to local LLM orchestration running entirely on edge hardware. 
+I'm **Yukith Joseph**, a Computer Science & Engineering student specializing in **Networks**, based in Bengaluru, India.
 
-Currently navigating my fourth academic semester and actively pursuing 2026 internship opportunities in intrusion detection, threat intelligence, and systems engineering, where the work is hard and the problems are unsolved.
+I build systems where software, intelligence, and physical infrastructure meet.
 
-<br/>
+My work currently spans:
 
----
+* **AI & Machine Learning** — local inference, computer vision, NLP, anomaly detection
+* **Cybersecurity & Networks** — intrusion detection, packet analysis, DLP, encrypted-traffic research
+* **Embedded Systems** — Arduino, ESP32, sensors, robotics, edge computing
+* **Full-Stack Engineering** — React, Next.js, TypeScript, Python, FastAPI
+* **AI Systems** — local LLMs, voice interfaces, multimodal systems, real-time pipelines
 
-<br/>
-
-## ⚡ Engineered Systems
-
-<br/>
-
-**SHADOWGUARD** &mdash; AI Security, Deepfake Forensics & DLP &nbsp;·&nbsp; *Active*
-
-Enterprise-grade architecture preventing unauthorized LLM data exfiltration and detecting synthetic media. Built with a Rust-based Tauri frontend for extreme performance. Features real-time packet inspection, behavioral anomaly detection, and strict policy enforcement at the inference layer.
-`Rust` `Tauri` `DLP Systems` `Deep Packet Inspection` `Deepfake Forensics` `Python`
-
-<br/>
-
-**NIDS CORE** &mdash; Network Intrusion Detection &nbsp;·&nbsp; *Active*
-
-ML-powered intrusion detection using packet-level analytics and multi-class anomaly classification. Built for real-time threat intelligence and low-latency alerting across production network segments. 
-`Scikit-Learn` `Packet Analytics` `Anomaly Detection` `Python`
-
-<br/>
-
-**MODULAR AR SPECTACLES** &mdash; Wearable Optical Pipeline &nbsp;·&nbsp; *Prototyped*
-
-A custom wearable augmented reality prototype designed to clip onto existing eyewear. Engineered the physical mounts using OpenSCAD and powered the display via an ESP32C3, an OLED interface, and a beam splitter prism for a seamless heads-up optical pipeline.
-`ESP32C3` `OpenSCAD` `C++` `Optical Engineering` `Hardware Design`
-
-<br/>
-
-**STP SYSTEM** &mdash; Autonomous Cleaning Robot &nbsp;·&nbsp; *Shipped*
-
-Sewage treatment robot engineered on a tracked chassis under strict budget constraints. Features a mechanical auger, intelligent waste classification using YOLOv8 object detection, and sensor fusion via ultrasonic sensors. Proof that good engineering thrives on constraints.
-`YOLOv8` `Arduino` `Sensor Fusion` `Edge AI` `C++` `Computer Vision`
-
-<br/>
-
-**AURA & SUGAR AI** &mdash; Autonomous AI Ecosystems &nbsp;·&nbsp; *Active*
-
-Multi-agent and fully offline multimodal assistants built for zero-cloud edge deployment. Utilizes local inference via Ollama, orchestration with LangChain, and voice interaction with Whisper AI over WebSockets. Designed for environments where connectivity is either unavailable or untrusted.
-`Local LLM` `Ollama` `LangChain` `Whisper AI` `TensorFlow`
-
-<br/>
+I prefer building complete systems rather than isolated demos: **architecture → implementation → testing → interface → deployment**.
 
 ---
 
-<br/>
+## Selected Systems
 
-## 🛠️ Stack & Telemetry
+### AURA — Autonomous Unified Recognition Assistant
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=zynx095&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=zynx095&theme=github-dark" alt="Language stack" />
-  </picture>
-</p>
+AI-powered surveillance and situational-awareness platform combining computer vision, object tracking, behavioral analysis, incident detection, and real-time communication.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=zynx095&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=zynx095&theme=github-dark" alt="GitHub Stats" />
-  </picture>
-</p>
+**Built with:** `Next.js` `FastAPI` `Python` `YOLOv8` `OpenCV` `WebSockets`
 
-<br/>
+AURA currently implements real-time YOLO-based detection through the FastAPI backend and is being developed toward a broader intelligent surveillance architecture.
+
+→ [View Repository](https://github.com/zynx095/AURA)
 
 ---
 
-<br/>
+### ShadowGuard — AI Security & Data Protection
 
-## 🧠 The Architecture of Threat Modeling
+A defensive cybersecurity system designed to detect and interrupt unauthorized data movement toward external systems and LLM-based services.
 
-<br/>
+Includes:
 
-The hardest problems in systems engineering aren't algorithmic; they're architectural. Knowing where intelligence should live, how systems should gracefully fail, and what the user should never have to think about.
+* Outbound data-flow monitoring
+* DLP mechanisms
+* Suspicious activity detection
+* Unauthorized LLM interaction blocking
+* Threat auditing and logging
+* Emergency response/shutdown mechanisms
 
-Outside of configuring pin layouts or debugging Rust binaries, my primary focus is creative fiction writing and script evaluation—specifically deconstructing antagonist perspectives. I've found that understanding complex, multi-layered characters translates flawlessly into **threat modeling**. When you can deconstruct how an antagonist thinks, you can anticipate how a bad actor will breach a network. Good security, like a good narrative, leaves no plot holes.
+**Built with:** `Python` `Scikit-Learn` `DLP` `Threat Detection`
 
-<br/>
+→ [View Repository](https://github.com/zynx095/shadowguard)
 
 ---
 
-<br/>
+### Encrypted Traffic Threat Hunter
 
-## 🤝 Connect
+Academic research project investigating whether **TLS fingerprinting + encrypted-flow behavioral characteristics** can improve malicious encrypted-traffic detection without decrypting network payloads.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=zynx095&theme=github-dark&website=yukithjoseph.me&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=zynx095&theme=github-dark&website=yukithjoseph.me" alt="zynx095 social links" />
-  </picture>
-</p>
+The current pipeline covers:
+
+* PCAP ingestion and validation
+* Bidirectional flow reconstruction
+* JA3 / JA3S / JA4 extraction
+* Behavioral feature extraction
+* Leakage-controlled datasets
+* Experimental dataset construction
+* Automated validation and testing
+
+The repository currently has **46 passing tests** across the processing and validation pipeline.
+
+The ML evaluation phase is intentionally still pending; no fabricated detection-performance numbers are claimed.
+
+**Built with:** `Python` `dpkt` `Scapy` `PCAP Analysis` `JA3` `JA4` `SHA-256` `Pytest`
+
+→ [View Research Repository](https://github.com/zynx095/encrypted-traffic-threat-hunter)
+
+---
+
+### SUGAR-AI — Offline-First AI Assistant
+
+A local Windows AI assistant designed around privacy, real-time interaction, and minimal cloud dependency.
+
+Architecture includes:
+
+* Local LLM inference through Ollama
+* `faster-whisper` speech recognition
+* MeloTTS voice synthesis
+* Persistent memory
+* Tool execution
+* Modular AI components
+* Local model support
+
+**Built with:** `Python` `Ollama` `Whisper` `MeloTTS` `Local LLMs`
+
+→ [View Repository](https://github.com/zynx095/SUGAR-AI)
+
+---
+
+### STP Cleaning Robot
+
+Low-cost autonomous robotics system designed to reduce human exposure to hazardous sewage-treatment environments.
+
+The system combines:
+
+* Arduino-controlled movement
+* YOLO-based object detection
+* Sensor integration
+* Autonomous obstacle awareness
+* Remote control
+* Browser-based monitoring dashboard
+
+**Built with:** `Arduino Mega` `C++` `YOLO` `Computer Vision` `Sensors` `HTML/CSS/JavaScript`
+
+→ [View Repository](https://github.com/zynx095/stp-bot-dashboard)
+
+---
+
+### Network Intrusion Detection System
+
+Machine-learning cybersecurity project focused on network traffic monitoring, packet analysis, intrusion classification, and threat analytics.
+
+Implemented models include:
+
+* Random Forest
+* Decision Tree
+* Naive Bayes
+
+**Built with:** `Python` `Scapy` `Scikit-Learn` `Pandas` `Machine Learning`
+
+→ [View Repository](https://github.com/zynx095/network-intrusion-detection-system)
+
+---
+
+## Other Engineering Work
+
+### AUTOHIRE
+
+Local-first AI recruitment intelligence platform with candidate and recruiter workflows.
+
+Features include resume parsing, local ATS matching, job recommendations, assessments, recruiter analytics, candidate intelligence, and offer generation.
+
+**Built with:** `Python` `Streamlit` `PyTorch` `Hugging Face Transformers`
+
+→ [View Repository](https://github.com/zynx095/NvidiaProject)
+
+---
+
+### YukithHub
+
+Full-stack community platform implementing authentication, OTP verification, subscriptions, rewards, social features, and access-control workflows.
+
+**Built with:** `MERN` `JWT` `Razorpay` `OTP Authentication`
+
+→ [View Repository](https://github.com/zynx095/ElevanceSkills-internship-project)
+
+---
+
+### Food Waste Tracking System
+
+Web-based system focused on tracking and managing food waste.
+
+**Built with:** `JavaScript` `Web Technologies`
+
+→ [View Repository](https://github.com/zynx095/food-waste-tracking-system)
+
+---
+
+### Smart Waste Management
+
+Embedded waste-management project exploring automated waste-handling and monitoring.
+
+**Built with:** `C++` `Arduino/Embedded Systems`
+
+→ [View Repository](https://github.com/zynx095/Smart-Waste_Management)
+
+---
+
+## Technical Stack
+
+### Languages
+
+`Python` `C++` `Java` `JavaScript` `TypeScript` `SQL` `HTML` `CSS`
+
+### AI / ML
+
+`PyTorch` `TensorFlow` `Scikit-Learn` `YOLO` `OpenCV` `Whisper` `Ollama` `LangChain`
+
+### Cybersecurity & Networks
+
+`Scapy` `Packet Analysis` `Network Security` `Intrusion Detection` `DLP` `Threat Detection` `TLS Analysis` `JA3` `JA4`
+
+### Backend & Web
+
+`FastAPI` `Node.js` `React` `Next.js` `Tailwind CSS` `Streamlit`
+
+### Embedded & Hardware
+
+`Arduino` `ESP32` `Embedded C++` `Sensors` `IoT` `Edge AI` `Computer Vision`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Docker` `OpenSCAD` `Unity` `Figma`
+
+---
+
+## Engineering Philosophy
+
+I care less about building another isolated application and more about understanding how the pieces interact.
+
+**Model → System → Interface → Hardware → Data → Security**
+
+That means experimenting with local AI instead of relying entirely on APIs, studying network behavior instead of treating security as an afterthought, and connecting software to physical systems when the problem requires it.
+
+The interesting engineering problems are usually found between disciplines.
+
+---
+
+## Achievements
+
+* **Top 30 Finalist — Smart India Hackathon 2025**
+* **National Finalist — Nirmith 2026 National-Level Hackathon**
+* **Runner-Up — InnovateX 4.0 Hardware Hackathon**
+* **Runner-Up — Hardware Expo**
+* **Technical Event Organizer — InnovateX Tech Fest**
+* Built and documented multiple AI, cybersecurity, networking, robotics, and embedded systems
+
+---
+
+## Current Focus
+
+```text
+AI Systems
+    ├── Local LLMs
+    ├── Multimodal AI
+    ├── Computer Vision
+    └── AI Agents
+
+Cybersecurity
+    ├── Network Security
+    ├── Intrusion Detection
+    ├── Threat Intelligence
+    └── AI Security
+
+Systems Engineering
+    ├── Distributed Architectures
+    ├── Real-Time Systems
+    ├── Edge Computing
+    └── Embedded Systems
+```
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zynx095) 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yukithjoseph.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yukith-joseph)
+<img src="https://github-readme-stats.vercel.app/api?username=zynx095&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynx095&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
-<sub><sup>Open to 2026 internship opportunities &nbsp;·&nbsp; Bengaluru, India &nbsp;·&nbsp; 12.9716°N 77.5946°E</sup></sub>
+</div>
+
+---
+
+## Featured Repositories
+
+<div align="center">
+
+[![AURA](https://github-readme-stats.vercel.app/api/pin/?username=zynx095\&repo=AURA\&theme=transparent\&hide_border=true)](https://github.com/zynx095/AURA)
+
+[![ShadowGuard](https://github-readme-stats.vercel.app/api/pin/?username=zynx095\&repo=shadowguard\&theme=transparent\&hide_border=true)](https://github.com/zynx095/shadowguard)
+
+[![SUGAR-AI](https://github-readme-stats.vercel.app/api/pin/?username=zynx095\&repo=SUGAR-AI\&theme=transparent\&hide_border=true)](https://github.com/zynx095/SUGAR-AI)
+
+[![ETTH](https://github-readme-stats.vercel.app/api/pin/?username=zynx095\&repo=encrypted-traffic-threat-hunter\&theme=transparent\&hide_border=true)](https://github.com/zynx095/encrypted-traffic-threat-hunter)
+
+</div>
+
+---
+
+<div align="center">
+
+### BUILDING SYSTEMS THAT THINK.
+
+**AI · SECURITY · NETWORKS · EMBEDDED**
+
+Bengaluru, India
+
+[Portfolio](https://yukithjoseph.me) · [LinkedIn](https://linkedin.com/in/yukith-joseph) · [GitHub](https://github.com/zynx095)
 
 </div>
