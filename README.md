@@ -1,11 +1,17 @@
 <div align="center">
-
-<!-- HERO -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=zynx095&theme=github-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=zynx095&theme=github-dark&mode=light">
-  <img src="https://www.gitskins.com/api/section/hero?username=zynx095&theme=github-dark" alt="Yukith Joseph GitHub profile hero">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zynx095.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zynx095.png">
+  <img
+    src="https://github.com/zynx095.png"
+    width="180"
+    height="180"
+    alt="Yukith Joseph GitHub profile picture"
+    style="border-radius: 50%;"
+  />
 </picture>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=4A9EFF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=AI+SYSTEMS+%2F%2F+CYBERSECURITY;NETWORKS+%2F%2F+EMBEDDED+ENGINEERING;LOCAL+LLMs+%2F%2F+EDGE+AI;BUILDING+SYSTEMS+THAT+THINK." alt="Typing introduction">
 
