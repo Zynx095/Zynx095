@@ -168,16 +168,6 @@ Full-stack community platform implementing authentication, OTP verification, sub
 
 ---
 
-### Food Waste Tracking System
-
-Web-based system focused on tracking and managing food waste.
-
-**Built with:** `JavaScript` `Web Technologies`
-
-→ [View Repository](https://github.com/zynx095/food-waste-tracking-system)
-
----
-
 ### Smart Waste Management
 
 Embedded waste-management project exploring automated waste-handling and monitoring.
