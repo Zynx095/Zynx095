@@ -200,41 +200,80 @@ name: Contribution Visuals
 
 on:
   schedule:
+    # Regenerate every 6 hours
     - cron: "0 */6 * * *"
-  workflow_dispatch: {}
+
+  workflow_dispatch:
+
   push:
-    branches: [ "main" ]
+    branches:
+      - main
 
 jobs:
+
+  # ============================================================
+  # GITHUB CONTRIBUTION SNAKE
+  # ============================================================
+
   snake:
+    name: Generate Contribution Snake
+
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: zynx095
+          github_token: ${{ secrets.PROFILE_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+
+      - name: Publish Snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+
+  # ============================================================
+  # 3D CONTRIBUTION CALENDAR
+  # ============================================================
+
   grid3d:
+    name: Generate 3D Contribution Calendar
+
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
+
     steps:
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Checkout Profile Repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contributions
+        uses: yoshi389111/github-profile-3d-contrib@0.9.3
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # IMPORTANT:
+          # PROFILE_TOKEN must be a PAT with access to the
+          # private repositories whose contributions you want
+          # included.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+
+          USERNAME: zynx095
+
         with:
           username: zynx095
-      - uses: crazy-max/ghaction-github-pages@v4
+
+      - name: Publish 3D Contribution Calendar
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: profile-3d-contrib
