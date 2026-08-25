@@ -164,21 +164,23 @@ Research pipeline exploring TLS fingerprints and encrypted-flow behavior for thr
 
 ---
 
-## `// CONTRIBUTION ACTIVITY` (public + private)
+## `// CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zynx095&bg_color=0B0F1A&color=4A9EFF&line=4A9EFF&point=8A5CF6&area=true&area_color=8A5CF6&hide_border=false&border_color=1F2A44&custom_title=Contribution%20Activity" width="95%">
+<img
+  src="./github-contribution-grid-snake-dark.svg"
+  width="95%"
+  alt="GitHub contribution snake animation"
+/>
 
 <br><br>
 
-<!-- Animated contribution snake — private commits included once the workflow below is enabled -->
-<img src="https://raw.githubusercontent.com/zynx095/zynx095/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake animation">
-
-<br><br>
-
-<!-- Animated 3D contribution calendar — private commits included once the workflow below is enabled -->
-<img src="https://raw.githubusercontent.com/zynx095/zynx095/output/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D animated contribution calendar">
+<img
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
+  width="95%"
+  alt="3D GitHub contribution calendar"
+/>
 
 </div>
 
