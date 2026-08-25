@@ -1,21 +1,270 @@
-# 💫 About Me:
-<br>I’m currently working on<br>AI-powered cybersecurity systems, network intrusion detection, local AI assistants, computer vision systems, and embedded/robotics projects. My current projects include AURA, ShadowGuard, SUGAR-AI, and encrypted-traffic threat analysis.<br><br>I’m looking to collaborate on<br>Open-source projects involving AI systems, cybersecurity, network security, computer vision, edge AI, embedded systems, and intelligent automation.<br><br>I’m looking for help with<br>Going deeper into production-grade cybersecurity, advanced network security, ML-based threat detection, distributed systems, and building reliable AI systems that can operate outside traditional cloud infrastructure.<br><br>I’m currently learning<br>Network security, intrusion detection, encrypted-traffic analysis, local LLM architectures, AI agents, computer vision, edge AI, embedded systems, and full-stack system architecture.<br><br>Ask me about<br>AI and cybersecurity projects, network intrusion detection, local LLMs, Ollama, computer vision, YOLO, Python, embedded systems, Arduino, ESP32, robotics, or turning an idea into a working technical prototype.<br><br>Fun fact<br>I like building systems that cross disciplines. A single project can end up involving AI, networking, cybersecurity, hardware, software, and a completely unnecessary amount of debugging.
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=zynx095&theme=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=zynx095&theme=github-dark&mode=light">
+  <img src="https://www.gitskins.com/api/section/hero?username=zynx095&theme=github-dark" alt="Yukith Joseph GitHub profile">
+</picture>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yuxith_pov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yukithj@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Zynx095&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Zynx095&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zynx095&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://yukithjoseph.me">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=4A9EFF" />
+</a>
+<a href="https://linkedin.com/in/yukith-joseph">
+  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=4A9EFF" />
+</a>
+<a href="mailto:yukithj@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=4A9EFF" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zynx095&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br><br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zynx095&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2800&pause=900&color=4A9EFF&center=true&vCenter=true&width=700&lines=AI+SYSTEMS+%2F%2F+CYBERSECURITY;NETWORKS+%2F%2F+EMBEDDED+ENGINEERING;LOCAL+LLMs+%2F%2F+EDGE+AI;BUILDING+SYSTEMS+THAT+THINK." alt="Typing introduction">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+## `> whoami`
+
+```text
+Yukith Joseph
+Computer Science & Engineering — Networks
+
+AI Systems        ████████████████████░░
+Cybersecurity     ██████████████████░░░░
+Networks          █████████████████░░░░░
+Embedded Systems  ███████████████░░░░░░░
+Computer Vision   ████████████████░░░░░
+```
+
+I build systems at the intersection of **AI, cybersecurity, networks, embedded hardware, and intelligent automation**.
+
+My projects range from local AI assistants and computer-vision systems to network intrusion detection, encrypted-traffic analysis, DLP concepts, robotics, and edge computing.
+
+I like building the entire system rather than stopping at a model or prototype:
+
+`IDEA → ARCHITECTURE → CODE → HARDWARE → INTERFACE → TESTING`
+
+---
+
+## `// CURRENTLY_BUILDING`
+
+<table>
+<tr>
+<td width="50%">
+
+### AURA
+
+**Autonomous Unified Recognition Assistant**
+
+Computer-vision surveillance and situational-awareness platform combining object detection, tracking, analytics, and real-time system interaction.
+
+`Next.js` `FastAPI` `Python` `YOLO` `OpenCV`
+
+<a href="https://github.com/zynx095/AURA">VIEW REPOSITORY →</a>
+
+</td>
+
+<td width="50%">
+
+### SHADOWGUARD
+
+**AI Security & Data Protection**
+
+Cybersecurity system focused on detecting and preventing unauthorized data movement toward external AI systems and sensitive services.
+
+`Python` `DLP` `Threat Detection` `Security`
+
+<a href="https://github.com/zynx095/shadowguard">VIEW REPOSITORY →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### SUGAR-AI
+
+**Offline AI Desktop Assistant**
+
+Local-first voice assistant using local LLM inference, speech recognition, TTS, memory, and modular AI components.
+
+`Python` `Ollama` `Whisper` `MeloTTS`
+
+<a href="https://github.com/zynx095/SUGAR-AI">VIEW REPOSITORY →</a>
+
+</td>
+
+<td width="50%">
+
+### ENCRYPTED TRAFFIC THREAT HUNTER
+
+**Encrypted Network Traffic Research**
+
+Research pipeline exploring TLS fingerprints and encrypted-flow behavior for threat detection without decrypting network payloads.
+
+`Python` `PCAP` `JA3` `JA4` `Scapy`
+
+<a href="https://github.com/zynx095/encrypted-traffic-threat-hunter">VIEW REPOSITORY →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `// SYSTEMS I HAVE BUILT`
+
+| System                          | Domain                      | Status     |
+| ------------------------------- | --------------------------- | ---------- |
+| AURA                            | Computer Vision / AI        | Active     |
+| ShadowGuard                     | Cybersecurity / DLP         | Active     |
+| SUGAR-AI                        | Local AI / Voice            | Active     |
+| Encrypted Traffic Threat Hunter | Network Security / Research | Research   |
+| NIDS                            | Network Security / ML       | Active     |
+| STP Cleaning Robot              | Robotics / Edge AI          | Prototyped |
+| AUTOHIRE                        | AI / Recruitment            | Prototyped |
+| Smart Waste Management          | Embedded / IoT              | Built      |
+| Food Waste Tracking System      | Full Stack                  | Built      |
+
+---
+
+## `// TECHNICAL STACK`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=zynx095&theme=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=zynx095&theme=github-dark&mode=light">
+    <img src="https://www.gitskins.com/api/section/stack?username=zynx095&theme=github-dark" alt="Yukith Joseph technical stack">
+  </picture>
+</p>
+
+<br>
+
+<div align="center">
+
+`Python` · `TypeScript` · `JavaScript` · `C++` · `Java` · `SQL`
+
+`PyTorch` · `TensorFlow` · `Scikit-Learn` · `YOLO` · `OpenCV`
+
+`FastAPI` · `React` · `Next.js` · `Node.js` · `Tailwind`
+
+`Ollama` · `Whisper` · `LangChain` · `Arduino` · `ESP32`
+
+`Git` · `GitHub` · `Docker` · `Linux` · `OpenSCAD` · `Unity`
+
+</div>
+
+---
+
+## `// GITHUB TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zynx095&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=4A9EFF&text_color=8B949E&icon_color=8A5CF6&rank_icon=github" width="49%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynx095&layout=compact&hide_border=true&bg_color=00000000&title_color=4A9EFF&text_color=8B949E" width="40%">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=zynx095&hide_border=true&background=00000000&ring=4A9EFF&fire=8A5CF6&currStreakLabel=4A9EFF&sideLabels=8B949E&dates=6E7681" width="65%">
+
+</div>
+
+---
+
+## `// CONTRIBUTION ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zynx095&bg_color=00000000&color=4A9EFF&line=4A9EFF&point=8A5CF6&area=true&hide_border=true" width="95%">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/demo/preview.png" width="1">
+
+</div>
+
+---
+
+## `// ENGINEERING INTERESTS`
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   AI SYSTEMS                                            │
+│   ├── Local LLM inference                               │
+│   ├── Multimodal AI                                     │
+│   ├── AI agents                                         │
+│   └── Computer vision                                   │
+│                                                         │
+│   CYBERSECURITY                                         │
+│   ├── Network intrusion detection                       │
+│   ├── Threat intelligence                               │
+│   ├── Encrypted traffic analysis                         │
+│   └── AI security / DLP                                 │
+│                                                         │
+│   SYSTEMS                                               │
+│   ├── Edge computing                                    │
+│   ├── Embedded systems                                  │
+│   ├── Robotics                                          │
+│   └── Real-time architectures                           │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `// ACTIVITY`
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zynx095&style=for-the-badge&color=4A9EFF&label=PROFILE+VIEWS">
+
+<img src="https://img.shields.io/github/followers/zynx095?style=for-the-badge&color=8A5CF6&label=FOLLOWERS">
+
+<img src="https://img.shields.io/github/stars/zynx095?style=for-the-badge&color=4A9EFF&label=STARS">
+
+</div>
+
+---
+
+## `// CONNECT`
+
+<div align="center">
+
+<a href="https://yukithjoseph.me">
+<img src="https://img.shields.io/badge/yukithjoseph.me-111827?style=for-the-badge&logo=googlechrome&logoColor=4A9EFF">
+</a>
+
+<a href="https://linkedin.com/in/yukith-joseph">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=4A9EFF">
+</a>
+
+<a href="mailto:yukithj@gmail.com">
+<img src="https://img.shields.io/badge/yukithj%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=4A9EFF">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+AI  ·  SECURITY  ·  NETWORKS  ·  EMBEDDED
+
+BUILDING SYSTEMS THAT THINK.
+```
+
+</div>
