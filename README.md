@@ -7,28 +7,28 @@
     width="180"
     height="180"
     alt="Yukith Joseph GitHub profile picture"
-    style="border-radius: 50%; border: 3px solid #FFB7C9;"
+    style="border-radius: 50%;"
   />
 </picture>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=FF6FA0&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=AI+SYSTEMS+%2F%2F+CYBERSECURITY;NETWORKS+%2F%2F+EMBEDDED+ENGINEERING;LOCAL+LLMs+%2F%2F+EDGE+AI;BUILDING+SYSTEMS+THAT+THINK." alt="Typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=4A9EFF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=AI+SYSTEMS+%2F%2F+CYBERSECURITY;NETWORKS+%2F%2F+EMBEDDED+ENGINEERING;LOCAL+LLMs+%2F%2F+EDGE+AI;BUILDING+SYSTEMS+THAT+THINK." alt="Typing introduction">
 
-<a href="https://yukithjoseph.me"><img src="https://img.shields.io/badge/PORTFOLIO-FFF5F8?style=for-the-badge&logo=googlechrome&logoColor=FF6FA0&labelColor=FFF5F8" /></a>
-<a href="https://linkedin.com/in/yukith-joseph"><img src="https://img.shields.io/badge/LINKEDIN-FFF5F8?style=for-the-badge&logo=linkedin&logoColor=FF6FA0&labelColor=FFF5F8" /></a>
-<a href="mailto:yukithj@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FFF5F8?style=for-the-badge&logo=gmail&logoColor=FF6FA0&labelColor=FFF5F8" /></a>
+<a href="https://yukithjoseph.me"><img src="https://img.shields.io/badge/PORTFOLIO-0B0F1A?style=for-the-badge&logo=googlechrome&logoColor=4A9EFF&labelColor=0B0F1A" /></a>
+<a href="https://linkedin.com/in/yukith-joseph"><img src="https://img.shields.io/badge/LINKEDIN-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=4A9EFF&labelColor=0B0F1A" /></a>
+<a href="mailto:yukithj@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0F1A?style=for-the-badge&logo=gmail&logoColor=4A9EFF&labelColor=0B0F1A" /></a>
 
 </div>
 
 <br>
 
-<!-- QUICK STATS ROW -->
+<!-- QUICK STATS ROW — mirrors the "Contributions / Streak" card in the screenshot -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=zynx095&theme=default&hide_border=false&border_radius=10&border_color=FFD6E3&background=FFF5F8&ring=FF6FA0&fire=FF6FA0&currStreakLabel=FF6FA0&currStreakNum=6B2E44&sideNums=6B2E44&sideLabels=A8768A&dates=A8768A" width="49.5%">
+<img src="https://streak-stats.demolab.com/?user=zynx095&theme=github-dark-blue&hide_border=false&border_radius=10&border_color=1F2A44&background=0B0F1A&ring=4A9EFF&fire=8A5CF6&currStreakLabel=4A9EFF&currStreakNum=E5E9F0&sideNums=E5E9F0&sideLabels=8B949E&dates=6E7681" width="49.5%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zynx095&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&border_color=FFD6E3&bg_color=FFF5F8&title_color=FF6FA0&text_color=6B2E44&icon_color=FF6FA0&rank_icon=percentile" width="45%">
+<img src="https://github-readme-stats.vercel.app/api?username=zynx095&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&border_color=1F2A44&bg_color=0B0F1A&title_color=4A9EFF&text_color=E5E9F0&icon_color=8A5CF6&rank_icon=percentile" width="45%">
 
 </div>
 
@@ -71,13 +71,13 @@ My projects range from local AI assistants and computer-vision systems to networ
 
 <br>
 
-<img src="https://img.shields.io/github/followers/zynx095?style=flat-square&color=FF6FA0&label=FOLLOWERS&labelColor=FFF5F8" />
-<img src="https://komarev.com/ghpvc/?username=zynx095&style=flat-square&color=FF6FA0&label=ACTIVE+DAYS&labelColor=FFF5F8" />
+<img src="https://img.shields.io/github/followers/zynx095?style=flat-square&color=8A5CF6&label=FOLLOWERS&labelColor=0B0F1A" />
+<img src="https://komarev.com/ghpvc/?username=zynx095&style=flat-square&color=4A9EFF&label=ACTIVE+DAYS&labelColor=0B0F1A" />
 
 </td>
 <td width="58%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynx095&hide_border=false&border_radius=10&border_color=FFD6E3&bg_color=FFF5F8&title_color=FF6FA0&text_color=6B2E44&langs_count=6&count_private=true" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynx095&hide_border=false&border_radius=10&border_color=1F2A44&bg_color=0B0F1A&title_color=4A9EFF&text_color=E5E9F0&langs_count=6&count_private=true" width="100%">
 
 </td>
 </tr>
@@ -86,6 +86,14 @@ My projects range from local AI assistants and computer-vision systems to networ
 ---
 
 ## `// TECH STACK`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=zynx095&theme=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=zynx095&theme=github-dark&mode=light">
+    <img src="https://www.gitskins.com/api/section/stack?username=zynx095&theme=github-dark" alt="Yukith Joseph technical stack">
+  </picture>
+</p>
 
 <div align="center">
 
@@ -281,7 +289,7 @@ Requirements: this workflow must live in the repo named exactly `zynx095/zynx095
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zynx095&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="90%">
+<img src="https://github-profile-trophy.vercel.app/?username=zynx095&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="90%">
 
 </div>
 
@@ -291,14 +299,14 @@ Requirements: this workflow must live in the repo named exactly `zynx095/zynx095
 
 <div align="center">
 
-<a href="https://yukithjoseph.me"><img src="https://img.shields.io/badge/yukithjoseph.me-FFF5F8?style=for-the-badge&logo=googlechrome&logoColor=FF6FA0&labelColor=FFF5F8"></a>
-<a href="https://linkedin.com/in/yukith-joseph"><img src="https://img.shields.io/badge/LinkedIn-FFF5F8?style=for-the-badge&logo=linkedin&logoColor=FF6FA0&labelColor=FFF5F8"></a>
-<a href="mailto:yukithj@gmail.com"><img src="https://img.shields.io/badge/yukithj%40gmail.com-FFF5F8?style=for-the-badge&logo=gmail&logoColor=FF6FA0&labelColor=FFF5F8"></a>
+<a href="https://yukithjoseph.me"><img src="https://img.shields.io/badge/yukithjoseph.me-0B0F1A?style=for-the-badge&logo=googlechrome&logoColor=4A9EFF&labelColor=0B0F1A"></a>
+<a href="https://linkedin.com/in/yukith-joseph"><img src="https://img.shields.io/badge/LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=4A9EFF&labelColor=0B0F1A"></a>
+<a href="mailto:yukithj@gmail.com"><img src="https://img.shields.io/badge/yukithj%40gmail.com-0B0F1A?style=for-the-badge&logo=gmail&logoColor=4A9EFF&labelColor=0B0F1A"></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=zynx095&style=for-the-badge&color=FF6FA0&label=PROFILE+VIEWS&labelColor=FFF5F8">
-<img src="https://img.shields.io/github/stars/zynx095?style=for-the-badge&color=FF6FA0&label=STARS&labelColor=FFF5F8">
+<img src="https://komarev.com/ghpvc/?username=zynx095&style=for-the-badge&color=4A9EFF&label=PROFILE+VIEWS&labelColor=0B0F1A">
+<img src="https://img.shields.io/github/stars/zynx095?style=for-the-badge&color=8A5CF6&label=STARS&labelColor=0B0F1A">
 
 <br><br>
 
